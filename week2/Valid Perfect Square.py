@@ -4,12 +4,12 @@
 #
 # Example 1:
 #
-# Input: 16
-# Output: true
-# Example 2:
-#
-# Input: 14
-# Output: false
+Input: 16
+Output: true
+Example 2:
+
+Input: 14
+Output: false
 
 # solution:
 class Solution:
